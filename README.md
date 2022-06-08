@@ -3,5 +3,12 @@
 Students taking this class will benefit from mastering the basic aspects of robotics and from obtaining an overview of the field. The course will initially cover domains, applications, and problems in mobile robotics. Second, it will address basic aspects of robotics such as locomotion and mobile robot kinematics. After basic aspects of sensing and computer vision are introduced, fundamental tasks in robotics are explained: mapping, localization, planning and navigation. Practical assignments will allow students to program different aerial, mobile, and manipulator robots.
 
 ### 1. OpenCV Tutorial
+In this tutorial, we cover
+* Basic Operations on Images with OpenCV
+* Image Filtering
+* 3D Reconstruction (Depth Map from Stereo Images)
+* Canny Edge Detection
+* Template Matching
+* Hough Circle Transform
 
 ### 2. Intro to Drone Programming
