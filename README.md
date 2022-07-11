@@ -12,6 +12,7 @@ In this tutorial, we cover
 * Hough Circle Transform
 
 ### 2. Intro to Drone Programming
+*Based on the work of [Murtaza Hassan](https://www.murtazahassan.com/).*
 In this tutorial, we study the main components of the TelloEdu drone and cover
 * Basic movements
 * Image Capturing
