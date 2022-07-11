@@ -16,4 +16,4 @@ In this tutorial, we study the main components of the TelloEdu drone and cover
 * Basic movements
 * Image Capturing
 * Keyboard Control
-
+Special thanks to my colleague [Jose Fuentes](https://github.com/Xioeng) for helping me out with the drone experiments.
